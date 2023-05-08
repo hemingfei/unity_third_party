@@ -1,0 +1,18 @@
+{
+    "name": "UltimateTouchpad.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:30879485a28d8492e9641e577c298a8d"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
