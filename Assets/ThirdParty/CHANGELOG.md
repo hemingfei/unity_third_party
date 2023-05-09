@@ -7,7 +7,10 @@ All notable changes to this package will be documented in this file.
 
 ### Added
 
-- YooAssets ｜ 1.4.12
+- YooAsset ｜ 1.4.12
+- UniTask | 2.3.3
+- DoTween Pro | 1.0.335
+- Super ScrollView | 2.4.5
 
 ## [1.0.0] - 2023-05-08
 
