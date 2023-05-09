@@ -1,0 +1,18 @@
+{
+    "name": "SuperScrollView.Tests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cb04189d15773594490d46c55e703254"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
