@@ -2,6 +2,19 @@
 
 All notable changes to this package will be documented in this file.
 
+## [1.0.2] - 2023-05-09
+
+### Added
+
+- AVPro Video ｜ 2.6.6
+- LitJSON
+- LubanLib
+- SharpZipLib
+- SimpleJSON
+
+### Removed
+
+- DoTween Pro | 1.0.335
 
 ## [1.0.1] - 2023-05-09
 
@@ -11,7 +24,7 @@ All notable changes to this package will be documented in this file.
 - UniTask | 2.3.3
 - DoTween Pro | 1.0.335
 - Super ScrollView | 2.4.5
-- StreamingAssetsHelper | 1.0.0
+- StreamingAssetsHelper
 
 ## [1.0.0] - 2023-05-08
 
