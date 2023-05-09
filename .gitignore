@@ -1,6 +1,6 @@
-ThirdParty/obj/Debug
-ThirdParty/ProjectSettings
-ThirdParty/Packages
-ThirdParty/UserSettings
 *.csproj
 *.sln
+obj/Debug
+Packages
+ProjectSettings
+UserSettings
