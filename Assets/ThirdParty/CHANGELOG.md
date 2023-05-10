@@ -2,6 +2,12 @@
 
 All notable changes to this package will be documented in this file.
 
+## [1.0.3] - 2023-05-10
+
+### Removed
+
+- SharpZipLib
+
 ## [1.0.2] - 2023-05-09
 
 ### Added
