@@ -1,13 +1,45 @@
 {
     "name": "com.hegametech.thirdparty",
     "displayName": "ThirdParty",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "unity": "2021.3",
     "description": "",
     "author": {
         "name": "hemingfei",
         "url": "https://github.com/hemingfei/unity_third_party"
     },
+    "samples": [
+        {
+            "displayName": "AVProVideo Sample",
+            "description": "",
+            "path": "Samples~/AVProVideo"
+        },
+        {
+            "displayName": "KinematicCharacterController Sample",
+            "description": "",
+            "path": "Samples~/KinematicCharacterController"
+        },
+        {
+            "displayName": "LeanTouch Sample",
+            "description": "",
+            "path": "Samples~/LeanTouch"
+        },
+        {
+            "displayName": "SuperScrollView Sample",
+            "description": "",
+            "path": "Samples~/SuperScrollView"
+        },
+        {
+            "displayName": "UltimateJoystick Sample",
+            "description": "",
+            "path": "Samples~/UltimateJoystick"
+        },
+        {
+            "displayName": "UltimateTouchpad Sample",
+            "description": "",
+            "path": "Samples~/UltimateTouchpad"
+        }
+    ],
     "repository": {
         "type": "git",
         "url": "https://github.com/hemingfei/unity_third_party.git"
