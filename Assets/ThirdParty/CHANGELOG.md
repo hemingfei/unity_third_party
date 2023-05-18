@@ -2,6 +2,12 @@
 
 All notable changes to this package will be documented in this file.
 
+## [1.0.5] - 2023-05-18
+
+### Added
+
+- FancyScrollView
+
 ## [1.0.4] - 2023-05-17
 
 ### Added

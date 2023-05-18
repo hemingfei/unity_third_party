@@ -1,7 +1,7 @@
 {
     "name": "com.hegametech.thirdparty",
     "displayName": "ThirdParty",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "unity": "2021.3",
     "description": "",
     "author": {
@@ -25,11 +25,6 @@
             "path": "Samples~/LeanTouch"
         },
         {
-            "displayName": "SuperScrollView Sample",
-            "description": "",
-            "path": "Samples~/SuperScrollView"
-        },
-        {
             "displayName": "UltimateJoystick Sample",
             "description": "",
             "path": "Samples~/UltimateJoystick"
@@ -38,6 +33,16 @@
             "displayName": "UltimateTouchpad Sample",
             "description": "",
             "path": "Samples~/UltimateTouchpad"
+        },
+        {
+            "displayName": "SuperScrollView Sample",
+            "description": "",
+            "path": "Samples~/SuperScrollView"
+        },
+        {
+            "displayName": "FancyScrollView Sample",
+            "description": "",
+            "path": "Samples~/FancyScrollView"
         }
     ],
     "repository": {
