@@ -2,6 +2,12 @@
 
 All notable changes to this package will be documented in this file.
 
+## [1.0.8] - 2023-06-19
+
+### Changed
+
+- YooAsset Upgrade to 1.4.16
+
 ## [1.0.7] - 2023-06-10
 
 ### Changed
