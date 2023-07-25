@@ -2,6 +2,12 @@
 
 All notable changes to this package will be documented in this file.
 
+## [1.0.9] - 2023-07-25
+
+### Added
+
+- Samples of Kinematic Character Controller
+
 ## [1.0.8] - 2023-06-19
 
 ### Changed
